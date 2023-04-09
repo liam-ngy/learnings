@@ -1,6 +1,9 @@
 # Learning Journal
 
-This is a collection of notes and insights from my reading and learning journey.
+This is a learning journal documenting my journey in software engineering. It
+covers a variety of topics, including iOS, Swift, Elixir, Phoenix, Backend
+development, and general software engineering concepts. Each entry includes key
+takeaways and notes from books, courses, and other resources.
 
 ## Table of Contents
 
